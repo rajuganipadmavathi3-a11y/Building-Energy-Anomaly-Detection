@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 🏢 Building Energy Anomaly Detection using Machine Learning
 
 📌 Project Overview
